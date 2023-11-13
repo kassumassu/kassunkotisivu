@@ -1,0 +1,111 @@
+@keyframes anima {
+    from {
+        transform: translatex(-300px); 
+    } 
+    to {
+        transform: translateX(0px); 
+    }
+} 
+.tausta1 {
+    background-color: black; 
+    width: 3000px; 
+    height: 2500px; 
+} 
+.a1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+} 
+.a2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+}  
+.a3 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+} 
+.a4 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+} 
+.nappi1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    border-radius: 36px; 
+    font-size: 150px; 
+    color: white; 
+    background-color: blue; 
+} 
+.a5 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+}  
+.a6 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+}  
+.linkki1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+} 
+.a7 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+} 
+.a8 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+}  
+.a9 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 150px; 
+}  
+.tausta2 {
+    background-color: white; 
+    width: 3000px; 
+    height: 1500px; 
+}
+.nappi2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    border-radius: 36px; 
+    background-color: blue; 
+    color: black; 
+    font-size: 150px; 
+}
+
+
+
+
+
